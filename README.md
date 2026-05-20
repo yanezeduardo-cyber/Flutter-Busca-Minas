@@ -11,7 +11,7 @@ Un clásico juego de Buscaminas desarrollado en formato móvil, web y escritorio
 ---
 
 ###  Características del Proyecto
-*  **Diseño de Interfaz Amigable:** Componentes visuales responsivos adaptados para pantallas móviles y navegadores web.
+*  **Diseño de Interfaz:** Componentes visuales responsivos adaptados para pantallas móviles y navegadores web.
 *  **Lógica Eficiente:** Control de celdas, generación aleatoria de minas y cálculo dinámico de casillas.
 *  **Multiplataforma:** Soporte nativo para Android, iOS, Web y plataformas de escritorio (Windows, macOS, Linux).
 
@@ -21,7 +21,7 @@ Un clásico juego de Buscaminas desarrollado en formato móvil, web y escritorio
 El código fuente se encuentra organizado dentro del directorio `lib/` de la siguiente manera:
 * 📁 `config/`: Constantes y manejo del estado global.
 * 📁 `models/`: Estructura de datos del juego (Celdas, Tablero).
-* 📁 `screens/`: Pantallas principales (Menú, Juego, Ajustes, Splash).
+  * 📁 `screens/`: Pantallas principales (Menú, Juego, Ajustes, Ayuda).
 * 📁 `widgerts/`: Componentes y botones personalizados reutilizables.
 
 ---
