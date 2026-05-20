@@ -26,8 +26,4 @@ El código fuente se encuentra organizado dentro del directorio `lib/` de la sig
 
 ---
 
-### Cómo ejecutar el proyecto de forma local
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/yanezeduardo-cyber/Flutter-Busca-Minas.git](https://github.com/yanezeduardo-cyber/Flutter-Busca-Minas.git)
